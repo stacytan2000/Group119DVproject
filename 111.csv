@@ -1,0 +1,634 @@
+region,Year,Number,rating
+Egypt,1953,1,6.8
+Egypt,1954,1,7.4
+USA,1954,1,7.5
+Egypt,1956,1,6.7
+Egypt,1958,1,7.5
+India,1959,1,6.7
+India,1960,1,6.4
+USA,1961,1,7.5
+India,1962,1,6.8
+Egypt,1963,1,7.6
+USA,1964,1,7.8
+India,1966,1,6.7
+USA,1966,1,7.3
+USA,1967,1,7.7
+USA,1968,1,7.2
+India,1969,1,6.9
+India,1971,1,6.2
+USA,1971,1,7.7
+USA,1972,1,6.2
+Egypt,1973,1,5
+India,1973,1,5.1
+USA,1973,1,8.1
+India,1974,1,6.5
+Lebanon,1975,1,6.5
+United Kingdom,1975,1,8.2
+Algeria,1976,1,7.2
+Egypt,1976,1,5
+India,1976,1,4.6
+USA,1976,1,8.3
+Germany,1977,1,7.5
+India,1978,1,4.2
+Egypt,1979,2,8.1
+France,1979,1,6.2
+India,1979,1,6.2
+Japan,1979,1,7.6
+United Kingdom,1979,1,8
+USA,1979,1,8.1
+Egypt,1980,1,5
+France,1980,1,7.8
+India,1980,1,2.1
+USA,1980,2,6.35
+Egypt,1981,1,5
+Japan,1981,1,7.2
+USA,1981,1,4.9
+Egypt,1982,1,7.3
+France,1982,1,6.3
+India,1982,1,6.5
+Japan,1982,1,7.7
+Kuwait,1982,1,8.7
+United Kingdom,1982,1,7.9
+USA,1982,1,6.6
+India,1983,1,6.3
+USA,1983,1,6.7
+India,1984,2,6.15
+USA,1984,2,7.85
+Argenti5,1985,1,8
+Egypt,1985,1,5
+India,1986,2,5.65
+USA,1986,4,7.175
+India,1987,1,4.8
+United Kingdom,1987,1,8.3
+USA,1987,3,7.033333333
+India,1988,1,5.1
+Japan,1988,1,7.3
+USA,1988,4,6.4
+Egypt,1989,1,6.5
+India,1989,1,5.4
+United Kingdom,1989,1,8.1
+USA,1989,4,5
+Hong Kong,1990,1,6.7
+India,1990,2,7.1
+USA,1990,4,6.35
+India,1991,2,5.2
+Italy,1991,1,6.9
+USA,1991,8,5
+India,1992,1,6.5
+United Kingdom,1992,1,5
+USA,1992,1,7.2
+Argenti5,1993,1,6.7
+Gha5,1993,1,7
+Hong Kong,1993,1,4.7
+India,1993,5,6.12
+Italy,1993,1,6.5
+United Kingdom,1993,1,8.5
+USA,1993,7,6.714285714
+Egypt,1994,1,6.5
+India,1994,4,6.325
+United Kingdom,1994,1,6.4
+USA,1994,4,6.275
+India,1995,5,6.02
+USA,1995,5,6.38
+India,1996,3,5.966666667
+USA,1996,4,6.8
+Egypt,1997,1,7.1
+Germany,1997,1,7.5
+India,1997,1,6.7
+Japan,1997,1,8
+Peru,1997,1,4.8
+USA,1997,8,6.4625
+#N/A,1998,1,5
+Belgium,1998,1,7.6
+France,1998,1,7
+India,1998,6,6.333333333
+USA,1998,12,6.85
+Egypt,1999,1,5.9
+India,1999,3,5.633333333
+Lebanon,1999,1,8.2
+Mexico,1999,1,7.8
+Turkey,1999,1,5
+USA,1999,3,6.866666667
+Germany,2000,2,6.5
+India,2000,2,6.05
+United Kingdom,2000,1,7.3
+USA,2000,3,6.533333333
+Canada,2001,1,5.6
+France,2001,1,4.8
+India,2001,4,7.225
+Japan,2001,1,7.2
+Palestine,2001,1,8.3
+Turkey,2001,1,8
+USA,2001,9,5
+India,2002,3,7.566666667
+Japan,2002,2,7.2
+Palestine,2002,1,6.6
+USA,2002,7,6.5
+France,2003,1,6.4
+India,2003,6,6.883333333
+Italy,2003,1,5.7
+Japan,2003,1,7.6
+Malaysia,2003,1,7.7
+New Zealand,2003,1,7.8
+Nigeria,2003,1,5
+Palestine,2003,1,5
+South Africa,2003,1,7
+United Kingdom,2003,2,6.95
+USA,2003,8,6.55
+#N/A,2004,2,5
+Argenti5,2004,1,5.2
+Canada,2004,2,6.95
+Egypt,2004,1,6.3
+Germany,2004,1,7.1
+India,2004,9,7.1
+Japan,2004,2,6.9
+"Korea, Republic Of",2004,1,6.6
+Turkey,2004,1,8
+United Kingdom,2004,1,7.2
+USA,2004,8,5
+#N/A,2005,1,6.4
+Australia,2005,1,7.3
+France,2005,1,7.3
+Germany,2005,1,5.1
+Hong Kong,2005,1,6.3
+India,2005,7,6.271428571
+Japan,2005,1,6.4
+United Kingdom,2005,4,5
+USA,2005,10,6.61
+Australia,2006,1,6.4
+Canada,2006,4,5
+Chile,2006,1,6.3
+Egypt,2006,2,5
+India,2006,7,7
+Japan,2006,1,6.4
+Lebanon,2006,1,6.7
+Malaysia,2006,1,7.3
+Saudi Arabia,2006,1,2.9
+Taiwan,2006,1,7
+Thailand,2006,1,5.2
+United Kingdom,2006,1,8
+USA,2006,17,5
+Bulgaria,2007,1,5
+Canada,2007,1,5.6
+Denmark,2007,1,7.2
+Egypt,2007,1,7.5
+Germany,2007,2,6.75
+Hong Kong,2007,1,5.2
+India,2007,13,6.892307692
+Japan,2007,2,6.8
+Mexico,2007,1,8
+Nigeria,2007,1,6.4
+"Philippines, Republic of the",2007,1,6.4
+United Kingdom,2007,1,7
+USA,2007,17,5
+Canada,2008,1,7.8
+Chile,2008,1,6.8
+Egypt,2008,2,5
+France,2008,1,5.4
+Hong Kong,2008,2,7.4
+India,2008,16,6.325
+Japan,2008,3,7
+People’s Republic of Chi5,2008,1,6.6
+"Philippines, Republic of the",2008,1,6.5
+Spain,2008,1,6.8
+United Kingdom,2008,5,5
+USA,2008,15,5
+Canada,2009,2,6.45
+Germany,2009,1,6.3
+Hong Kong,2009,2,6.1
+India,2009,17,6.188235294
+Japan,2009,2,7.25
+Malaysia,2009,1,7.4
+Nigeria,2009,1,4.4
+United Kingdom,2009,2,6.9
+USA,2009,16,5
+Egypt,2010,1,7.4
+Hong Kong,2010,2,6.4
+India,2010,18,5
+Japan,2010,3,7.233333333
+"Korea, Republic Of",2010,1,6.6
+Nigeria,2010,1,7
+People’s Republic of Chi5,2010,1,7.5
+"Philippines, Republic of the",2010,1,6.7
+Spain,2010,1,7.4
+Turkey,2010,1,5.3
+United Kingdom,2010,2,7.95
+USA,2010,19,6.484210526
+Australia,2011,1,4.7
+Canada,2011,1,5.4
+Egypt,2011,1,8.1
+Germany,2011,1,7.1
+Hong Kong,2011,1,6.5
+India,2011,20,5
+Indonesia,2011,1,7
+Japan,2011,1,7.1
+"Korea, Republic Of",2011,1,8
+Lebanon,2011,2,6.3
+Netherlands,2011,1,6.7
+Nigeria,2011,1,4.9
+Norway,2011,1,7.8
+People’s Republic of Chi5,2011,2,6.3
+"Philippines, Republic of the",2011,1,5.9
+Turkey,2011,1,6.4
+United Kingdom,2011,3,5
+USA,2011,32,5
+Australia,2012,1,5.3
+Canada,2012,2,6
+France,2012,1,6
+Hong Kong,2012,1,5.1
+India,2012,25,6.152
+Japan,2012,5,7.42
+"Korea, Republic Of",2012,1,6.3
+Nigeria,2012,1,6.4
+Palestine,2012,1,7.8
+"Philippines, Republic of the",2012,4,6.125
+South Africa,2012,1,7.3
+United Arab Emirates,2012,1,5
+United Kingdom,2012,3,6.266666667
+USA,2012,29,5
+Argenti5,2013,1,6.5
+Austria,2013,1,5
+Brazil,2013,3,6.933333333
+Hong Kong,2013,2,5.45
+India,2013,26,5.923076923
+Japan,2013,2,7.55
+"Korea, Republic Of",2013,1,6.6
+Lebanon,2013,1,7.3
+Nigeria,2013,3,5.933333333
+Palestine,2013,2,5
+People’s Republic of Chi5,2013,1,6.4
+"Philippines, Republic of the",2013,5,6.42
+Spain,2013,1,6.8
+Turkey,2013,2,7.3
+United Arab Emirates,2013,1,6.7
+United Kingdom,2013,3,7.666666667
+USA,2013,41,5
+Argenti5,2014,1,6.4
+Australia,2014,1,5.1
+Canada,2014,7,6.128571429
+Chile,2014,1,7.6
+Congo (Democratic Republic),2014,1,8.2
+France,2014,1,7.2
+Germany,2014,2,6.25
+India,2014,27,5
+Israel,2014,1,7.1
+Italy,2014,1,6.3
+Japan,2014,3,6.933333333
+"Korea, Republic Of",2014,1,7.2
+Mexico,2014,1,7.2
+Nigeria,2014,3,5.8
+Palestine,2014,1,6.6
+"Philippines, Republic of the",2014,5,6.62
+Romania,2014,1,6
+South Africa,2014,1,5.2
+Spain,2014,1,7.4
+Turkey,2014,3,6
+Ukraine,2014,1,7.9
+United Arab Emirates,2014,1,7.3
+United Kingdom,2014,5,6.92
+USA,2014,41,5
+Venezuela,2014,1,7.3
+Australia,2015,1,7.1
+Austria,2015,1,3.6
+Brazil,2015,1,5.4
+Canada,2015,3,6
+France,2015,4,5
+Germany,2015,1,7.1
+Hong Kong,2015,2,5.65
+India,2015,24,5
+"Korea, Republic Of",2015,1,7
+Lebanon,2015,1,7.1
+Mexico,2015,4,6.225
+Morocco,2015,2,5.85
+Netherlands,2015,1,5
+Nigeria,2015,3,5.7
+"Philippines, Republic of the",2015,9,6.711111111
+Qatar,2015,1,7.1
+Romania,2015,1,6
+Singapore,2015,1,4.8
+Sweden,2015,1,5.8
+Turkey,2015,8,6.0625
+Ukraine,2015,1,8.3
+United Arab Emirates,2015,1,5.3
+United Kingdom,2015,7,6
+USA,2015,57,5
+Argenti5,2016,3,6.933333333
+Belgium,2016,1,7
+Brazil,2016,3,6.333333333
+Bulgaria,2016,2,5
+Canada,2016,8,5.8125
+Chile,2016,1,5.8
+Congo (Democratic Republic),2016,1,7.5
+Czech Republic,2016,1,5
+Denmark,2016,1,6.9
+France,2016,6,6.033333333
+Germany,2016,4,5.075
+Greenland,2016,1,6.3
+India,2016,21,6.385714286
+Indonesia,2016,3,6.233333333
+Ireland,2016,1,7.2
+Italy,2016,1,6.1
+Japan,2016,7,5
+"Korea, Republic Of",2016,1,6.6
+Mexico,2016,5,6.28
+Netherlands,2016,3,5
+New Zealand,2016,1,7.8
+Nigeria,2016,7,5
+Norway,2016,1,6.6
+Pakistan,2016,1,7.4
+People’s Republic of Chi5,2016,4,5.775
+"Philippines, Republic of the",2016,8,6.4125
+Qatar,2016,1,7.4
+Romania,2016,1,6.1
+Saudi Arabia,2016,2,5
+Slovakia,2016,1,5.8
+Spain,2016,10,6.74
+Sweden,2016,3,6.1
+Syrian Arab Republic,2016,1,5
+Turkey,2016,6,6.05
+United Arab Emirates,2016,3,2.9
+United Kingdom,2016,10,5
+USA,2016,91,5
+Viet5m,2016,1,4.8
+#N/A,2017,11,5
+Argenti5,2017,3,6.366666667
+Australia,2017,5,6.08
+Belgium,2017,3,7.066666667
+Brazil,2017,6,5.633333333
+Bulgaria,2017,3,4.833333333
+Cambodia,2017,2,6.3
+Cameroon,2017,1,4
+Canada,2017,17,5
+Chile,2017,2,6.3
+Cuba,2017,1,8.3
+Czech Republic,2017,1,6.3
+Denmark,2017,1,5
+Egypt,2017,1,6.3
+France,2017,12,6.491666667
+Germany,2017,4,5.775
+Gha5,2017,1,4.1
+Hong Kong,2017,1,5.2
+Hungary,2017,1,7.5
+India,2017,42,5
+Indonesia,2017,6,5.933333333
+Iraq,2017,1,6.3
+Ireland,2017,4,5
+Israel,2017,2,7.05
+Italy,2017,1,5.6
+Japan,2017,8,6.5875
+"Korea, Republic Of",2017,10,5
+Kuwait,2017,1,6
+Kyrgyzstan,2017,1,7.4
+Lebanon,2017,2,7.1
+Mexico,2017,9,5.777777778
+Netherlands,2017,2,6.55
+New Zealand,2017,1,5.3
+Nigeria,2017,4,5.725
+Palestine,2017,1,7.5
+People’s Republic of Chi5,2017,2,5.7
+Peru,2017,3,6.3
+"Philippines, Republic of the",2017,8,6.8
+Poland,2017,2,5
+Singapore,2017,1,5.3
+South Africa,2017,2,6.15
+Spain,2017,18,6.016666667
+Switzerland,2017,1,5
+"Tanzania, United Republic Of",2017,1,8.1
+Thailand,2017,1,7.6
+Turkey,2017,8,6.2
+United Arab Emirates,2017,1,6.2
+United Kingdom,2017,19,5
+USA,2017,153,5
+Zimbabwe,2017,1,6.1
+#N/A,2018,17,5
+Argenti5,2018,10,6.19
+Australia,2018,3,6.733333333
+Austria,2018,2,5.7
+Bangladesh,2018,1,7.4
+Belgium,2018,3,5
+Brazil,2018,8,6.0625
+Canada,2018,12,5.4
+Chile,2018,3,5.233333333
+Colombia,2018,6,5
+Czech Republic,2018,1,4.2
+Denmark,2018,2,6.55
+Egypt,2018,6,5
+France,2018,23,6.260869565
+Georgia,2018,1,5
+Germany,2018,5,5.98
+Hong Kong,2018,1,6.6
+Iceland,2018,1,6.9
+India,2018,46,5
+Indonesia,2018,10,6.21
+Ireland,2018,1,6.9
+Israel,2018,1,6.6
+Italy,2018,5,6.52
+Japan,2018,12,5
+Kenya,2018,1,5.3
+"Korea, Republic Of",2018,8,5
+Kuwait,2018,1,5.8
+Lebanon,2018,3,5
+Luxembourg,2018,1,6.8
+Malaysia,2018,6,6.183333333
+Mexico,2018,17,5
+Netherlands,2018,3,6.633333333
+New Zealand,2018,2,6
+Nigeria,2018,8,5
+Norway,2018,2,6.6
+Pakistan,2018,2,6.8
+Paraguay,2018,1,5.9
+People’s Republic of Chi5,2018,3,6.566666667
+Peru,2018,1,6.1
+"Philippines, Republic of the",2018,9,5.833333333
+Poland,2018,2,6.05
+Puerto Rico,2018,1,5.5
+Qatar,2018,1,6.5
+Russian Federation,2018,1,6.4
+Singapore,2018,2,4.4
+South Africa,2018,3,5.866666667
+Spain,2018,26,6.115384615
+Switzerland,2018,1,6.6
+Taiwan,2018,4,6.675
+"Tanzania, United Republic Of",2018,2,7.3
+Turkey,2018,6,5.233333333
+United Arab Emirates,2018,4,5.65
+United Kingdom,2018,23,6.126086957
+USA,2018,144,5
+#N/A,2019,31,5
+Afghanistan,2019,1,5
+Argenti5,2019,6,5
+Australia,2019,6,6.233333333
+Bangladesh,2019,1,6.9
+Belgium,2019,2,6.75
+Brazil,2019,11,5.145454545
+Canada,2019,10,5
+Chile,2019,2,6.15
+Colombia,2019,4,5
+Czech Republic,2019,1,5
+Egypt,2019,7,5
+France,2019,21,5
+Germany,2019,4,6.25
+Gha5,2019,1,6.2
+Guatemala,2019,1,6.6
+Hong Kong,2019,3,6.133333333
+India,2019,79,5
+Indonesia,2019,12,6.875
+Ireland,2019,1,5.7
+Israel,2019,1,5.7
+Italy,2019,3,5.2
+Japan,2019,16,5
+"Korea, Republic Of",2019,5,5
+Kuwait,2019,2,5
+Lebanon,2019,2,5
+Malawi,2019,1,7.6
+Malaysia,2019,1,5
+Mexico,2019,9,5
+Mozambique,2019,1,6
+5mibia,2019,1,5
+Netherlands,2019,1,5
+Nigeria,2019,13,5
+Palestine,2019,1,7.5
+People’s Republic of Chi5,2019,10,5
+"Philippines, Republic of the",2019,12,5
+Poland,2019,1,6.2
+Qatar,2019,1,6.1
+Romania,2019,1,4.8
+Senegal,2019,1,6.7
+Serbia,2019,1,7.1
+Singapore,2019,2,5.75
+South Africa,2019,3,5
+Spain,2019,22,5
+Taiwan,2019,3,5
+Thailand,2019,5,5
+Turkey,2019,7,5.942857143
+United Arab Emirates,2019,2,5
+United Kingdom,2019,18,6.916666667
+USA,2019,185,5
+Uruguay,2019,2,6.2
+Viet5m,2019,1,5
+#N/A,2020,40,5
+Angola,2020,1,3.9
+Argenti5,2020,11,5
+Australia,2020,7,5
+Austria,2020,2,5.65
+Belgium,2020,5,5
+Brazil,2020,9,5
+Cameroon,2020,1,6.4
+Canada,2020,15,5
+Chile,2020,3,5
+Denmark,2020,1,7.8
+Egypt,2020,2,5
+France,2020,15,5
+Germany,2020,11,5
+Hong Kong,2020,2,5.65
+Hungary,2020,1,7
+Iceland,2020,1,5
+India,2020,49,5
+Indonesia,2020,14,5
+Ireland,2020,2,6.95
+Italy,2020,11,5
+Japan,2020,14,5
+"Korea, Republic Of",2020,6,6.5
+Lebanon,2020,1,5
+Lithuania,2020,1,7.1
+Malaysia,2020,2,5
+Mauritius,2020,1,5.5
+Mexico,2020,11,5.990909091
+Netherlands,2020,1,5.2
+Nigeria,2020,12,5
+Norway,2020,1,5.1
+Palestine,2020,1,5
+People’s Republic of Chi5,2020,2,6.35
+Peru,2020,1,5
+"Philippines, Republic of the",2020,3,6.033333333
+Poland,2020,5,5
+Portugal,2020,1,6.6
+Russian Federation,2020,1,7.1
+Saudi Arabia,2020,2,5
+Singapore,2020,1,6.6
+South Africa,2020,3,5
+Spain,2020,13,5
+Sweden,2020,1,5.9
+Switzerland,2020,1,7.1
+Taiwan,2020,7,5
+Thailand,2020,2,5.15
+Turkey,2020,3,5.9
+Ukraine,2020,1,5
+United Kingdom,2020,20,5
+USA,2020,176,5
+Uruguay,2020,1,6.4
+#N/A,2021,33,5
+Afghanistan,2021,1,7.7
+Argenti5,2021,1,6.1
+Australia,2021,4,6.425
+Belgium,2021,2,6.5
+Brazil,2021,12,5.741666667
+Canada,2021,11,5
+Chile,2021,1,5.4
+Colombia,2021,2,4.2
+Czech Republic,2021,1,5.4
+Denmark,2021,1,7.3
+Egypt,2021,1,4.9
+Finland,2021,1,6.2
+France,2021,17,6
+Germany,2021,11,5
+Hong Kong,2021,2,5
+Hungary,2021,2,5
+India,2021,46,5
+Indonesia,2021,9,6.177777778
+Israel,2021,1,7.2
+Italy,2021,14,5
+Japan,2021,14,5
+Kenya,2021,1,7
+"Korea, Republic Of",2021,7,5.785714286
+Lebanon,2021,1,2.3
+Mexico,2021,10,5.75
+Netherlands,2021,7,5.771428571
+New Zealand,2021,3,5.766666667
+Nigeria,2021,7,5.271428571
+Norway,2021,1,6.9
+People’s Republic of Chi5,2021,7,5
+"Philippines, Republic of the",2021,12,5
+Poland,2021,13,5.684615385
+Qatar,2021,1,7.3
+Romania,2021,2,5.4
+Russian Federation,2021,2,6.25
+Saudi Arabia,2021,2,6.5
+South Africa,2021,8,5.075
+Spain,2021,12,5
+Sweden,2021,3,5.466666667
+Switzerland,2021,1,5.4
+Taiwan,2021,5,6.54
+"Tanzania, United Republic Of",2021,1,5.7
+Thailand,2021,4,4.875
+Turkey,2021,8,6.0625
+United Kingdom,2021,24,6.3625
+USA,2021,124,5
+Viet5m,2021,1,5.7
+#N/A,2022,15,5
+Argenti5,2022,2,5.9
+Belgium,2022,1,5.6
+Brazil,2022,1,7.1
+Canada,2022,3,5.2
+Colombia,2022,1,6.1
+Denmark,2022,1,6.5
+France,2022,3,5.633333333
+Germany,2022,2,4.95
+India,2022,13,5
+Ireland,2022,1,6.9
+Italy,2022,4,5.9
+Japan,2022,3,6.4
+"Korea, Republic Of",2022,4,5
+Malaysia,2022,1,7
+Mexico,2022,1,4.2
+Netherlands,2022,1,7.3
+Norway,2022,1,4.3
+Peru,2022,2,5
+Poland,2022,4,4.575
+South Africa,2022,1,6.1
+Spain,2022,5,5.66
+Sweden,2022,1,5.6
+Thailand,2022,1,4.4
+Turkey,2022,4,5.475
+United Kingdom,2022,7,6.328571429
+USA,2022,25,5
